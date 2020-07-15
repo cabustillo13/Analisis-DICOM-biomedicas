@@ -65,3 +65,4 @@ for ax in axes:
     ax.axis('off')
 plt.show()
  
+#Bibliografia: https://www.datacamp.com/courses/biomedical-image-analysis-in-python
